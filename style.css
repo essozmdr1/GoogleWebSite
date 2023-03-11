@@ -1,0 +1,61 @@
+
+
+.head{
+    height: 150px;
+    text-align: center;
+}
+
+.head img {
+    height: 150px;
+    width: auto;
+}
+.center{
+height: 70px;
+background-color: rgb(238, 238, 238);
+text-align: center;
+margin: 5px;
+
+}
+
+
+
+.details{
+    height: 130px;
+    display: flex;
+}
+
+.search_box{
+    width: 550px;
+}
+
+.header{
+    margin: 0px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.details_left{
+    background-color: rgb(126, 229, 218);
+    width: 480px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.details_center{
+    background-color: rgb(112, 204, 194);
+    padding-top: 25px;
+    width: 300px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+
+.details_right{
+    background-color: rgb(98, 179, 170);
+    width: 550px;
+    text-align: center;
+    padding-top: 25px;
+
+
+}
